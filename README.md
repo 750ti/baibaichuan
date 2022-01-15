@@ -8,16 +8,13 @@
 
 
 【红警下载链接】
-
 https://github.com/750ti/baibaichuan-RA2
 
 
 【红警语音包】demo2测试版（gitee站外）
-
 https://gitee.com/gtx750ti/bbc/issues/I46WH0
 
 【红警载入图】V0.2.1测试版（gitee站外）
-
 https://gitee.com/gtx750ti/bbc/issues/I4MX8A
 
 ----------------------------
