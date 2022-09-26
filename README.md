@@ -1,4 +1,12 @@
+
+[![百百川](https://img.shields.io/badge/bilibili-%E7%99%BE%E7%99%BE%E5%B7%9D-ff69b4)](https://space.bilibili.com/150478041)
+[![百百川](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%99%BE%E7%99%BE%E5%B7%9D-blue)](https://www.zhihu.com/people/baibaichuan)
+[![百百川](https://img.shields.io/badge/GitHub-750ti-black)](https://github.com/750ti)
+![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4-2022年9月26日-lightgrey)
+
+
 ---
+
 # 百百川的分享
 
 为了方便文字内容展示，和方便后期更新维护，于是在 [gitee](https://gitee.com/gtx750ti/bbc) 和 [GitHub](https://github.com/750ti/baibaichuan)，创建了文章仓库！
